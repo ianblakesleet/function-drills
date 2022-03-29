@@ -378,6 +378,7 @@ const ascending = (arr) => {
   }
   return true;
 };
+let arrayIsAscending = ascending(sampleArray);
 // console.log(ascending(sampleArray));
 
 ////////////////// PROBLEM 22 ////////////////////
